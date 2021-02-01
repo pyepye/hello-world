@@ -6,6 +6,6 @@ Run with:
 
 object HelloWorld {
   def main(args: Array[String]): Unit = {
-    println("Hello word")
+    println("Hello world")
   }
 }
